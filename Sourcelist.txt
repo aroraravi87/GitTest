@@ -13,3 +13,4 @@ Figure out forum/Region where .net software's are maintained.
 10)Existing Clients of past 10 years ,sql clients.
 11)Paid services like Data.com,Naukri.com,BuiltWith.com etc.
 12)Test edited
+13)revert changes
