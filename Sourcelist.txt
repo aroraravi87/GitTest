@@ -15,4 +15,25 @@ Figure out forum/Region where .net software's are maintained.
 12)Test edited
 13)devlopment content edit
 14)commit #1
+Figure out forum/Region where .net software's are maintained. 
+
+
+1)Microsoft App Store.
+2)Partners List (Umbraco,Kentico,DNN,Sitefinity,sitecore etc).
+3)Microsoft Pin points & partner point(country specific.) http://pinpoint.microsoft.com/en-in
+4)Job Boards(stackoverflow,Remote jobs,Indeed,Forums etc).
+5)Linkedin Groups.
+6)Twitter Groups.
+7)Microsofts Forums & Blogs.
+8)Events & Conferences.
+9)Quora.
+10)Existing Clients of past 10 years ,sql clients.
+11)Paid services like Data.com,Naukri.com,BuiltWith.com etc.
+12)Test edited
+13)devlopment content edit
+14)commit #1
+<<<<<<< .mine
 15)commit fix#1
+=======
+15)commit #dev changes
+>>>>>>> .theirs
